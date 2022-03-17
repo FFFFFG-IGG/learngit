@@ -1,2 +1,6 @@
-fyz is not git god!
+<<<<<<< HEAD
+fyz WERE git god!
+=======
+fyz were git god!
+>>>>>>> master
 in the end
